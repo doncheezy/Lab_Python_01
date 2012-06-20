@@ -1,0 +1,57 @@
+python lab 2
+Exercise 1
+1. x ,length,NUMBER,Android_phone1 are valid variable names
+
+2. The datatypes of the following questions are
+no.1 is boolean
+ no.2 float
+ No. 3 is String
+No.4 is int
+No.5 is string
+No. 6 is int
+ No.7 is a syntax error
+No.8 is string
+No.9 is string
+No. 10 is string
+
+Exercise 2
+a=False
+>>> b=True
+>>> c=False
+>>> b and c
+False
+>>> b or c
+True
+>>> not a nad b
+SyntaxError: invalid syntax
+>>> not a and b
+True
+>>> (a and b)or not c
+True
+>>> not b and not(a or c)
+False
+>>> not((not b or not a)and c)or a
+True
+
+
+Exercise 3
+>>> 5/2
+2
+>>> 5/2.0
+2.5
+>>> 5.0/2
+2.5
+>>> 7*(1/2)
+0
+>>> 7*(1/2.0)
+3.5
+>>> 5**2
+25
+>>> 5.0**2
+25.0
+>>> 5**2.0
+25.0
+>>> 1/3
+0
+>>> 1/3.0
+0.3333333333333333
